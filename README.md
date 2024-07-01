@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @sophxth
+- 😄 Pronouns: she/ her
+- 💞️ I’m looking to collaborate on any small games and projects!
+- 👀 I’m interested in HTML, Javascript, C++ and more ^.^
+- 🌱 I’m currently learning Java
+- 📫 How to reach me! insta: @sophixthai_ || personal email: tramsophia.thai@gmail.com
+- 💻 What is this repository? These are all my works from ICS3U class!! Feel free to test them!!
+- ⚡ Fun fact: I can eat alot when I'm sad hehe 
